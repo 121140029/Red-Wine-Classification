@@ -83,7 +83,7 @@ pastikan sistem yang dimiliki
 ## 📈 Perbandingan Performa Model
 ![Performa Model](assets/performa_model.png)
 
-6. Kesimpulan
+6. Kesimpulan  
 Berdasarkan penelitian dan implementasi klasifikasi kualitas anggur merah menggunakan
 algoritma pembelajaran mesin, diperoleh beberapa kesimpulan sebagai berikut:
 - Dataset yang digunakan adalah winequality-red.csv dari UCI Machine Learning Repository,
