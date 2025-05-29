@@ -75,7 +75,7 @@ pastikan sistem yang dimiliki
 
 5. Hasil output dan Visualisasi  
 ## 🔍 Confusion Matrix
-![Confusion Matrix](assets/confusion_matrix.png)
+![Confusion Matrix](assets/confusion_matrix_comparison.png)
 
 ## 📊 Distribusi Prediksi
 ![Distribusi Prediksi](assets/distribusi_prediksi.png)
